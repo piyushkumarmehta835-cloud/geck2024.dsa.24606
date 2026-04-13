@@ -1,4 +1,4 @@
-# geck2024.dsa.24606
+# geck2024.os.24606
 #include <stdio.h>
 
 int main() {
